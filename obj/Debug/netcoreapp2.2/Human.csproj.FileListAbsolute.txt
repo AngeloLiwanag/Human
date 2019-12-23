@@ -1,0 +1,11 @@
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/obj/Debug/netcoreapp2.2/Human.csprojAssemblyReference.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/obj/Debug/netcoreapp2.2/Human.csproj.CoreCompileInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfoInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfo.cs
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/bin/Debug/netcoreapp2.2/Human.deps.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/bin/Debug/netcoreapp2.2/Human.runtimeconfig.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/bin/Debug/netcoreapp2.2/Human.runtimeconfig.dev.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/bin/Debug/netcoreapp2.2/Human.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/bin/Debug/netcoreapp2.2/Human.pdb
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/obj/Debug/netcoreapp2.2/Human.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/Human/obj/Debug/netcoreapp2.2/Human.pdb
